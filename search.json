@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/Assignment01.html",
+    "href": "posts/Assignment01.html",
+    "title": "tedblog",
+    "section": "",
+    "text": "The aim of this assignment is to give you practice working with this Jupyter environment and writing Markdown.\nThis exercise is also intended to start you thinking about what you might like to work on for a project. (I will not hold you to any project ideas written here; you are welcome to change your mind later.)\n\n\n\nThere are many guides out there on how to use markdown syntax. The following is one example you may find useful:\n\nMarkdown Cheatsheet\n\nIn this assignment notebook, you will find that you are unable to alter the content of the cells that I have written -> this is on purpose. However, you will be able to edit and run all response cells.\nAfter writing your responses in markdown, execute the cells so that your markdown text gets rendered.\n\n\nInitial step:\nOpen the cell below in edit mode (by double-clicking on it), look at how it is written, and then run it. Make sure you understand how the text is marked up to get the header style, italics, bold, and a bulleted list.\n\n(double-click here to edit)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tedblog",
+    "section": "",
+    "text": "Assignment 1\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
