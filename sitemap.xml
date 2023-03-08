@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Yarmoski.github.io/140-Quarto/posts/Ted-140-Project-Notebook.html</loc>
+    <lastmod>2023-03-08T18:21:30.073Z</lastmod>
+  </url>
+  <url>
     <loc>https://Yarmoski.github.io/140-Quarto/posts/Assignment01.html</loc>
-    <lastmod>2023-03-08T18:05:07.941Z</lastmod>
+    <lastmod>2023-03-08T18:21:30.601Z</lastmod>
   </url>
   <url>
     <loc>https://Yarmoski.github.io/140-Quarto/posts/welcome/index.html</loc>
-    <lastmod>2023-03-08T18:05:08.916Z</lastmod>
+    <lastmod>2023-03-08T18:21:31.044Z</lastmod>
   </url>
   <url>
     <loc>https://Yarmoski.github.io/140-Quarto/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-08T18:05:09.332Z</lastmod>
+    <lastmod>2023-03-08T18:21:31.431Z</lastmod>
   </url>
   <url>
     <loc>https://Yarmoski.github.io/140-Quarto/about.html</loc>
-    <lastmod>2023-03-08T18:05:09.727Z</lastmod>
+    <lastmod>2023-03-08T18:21:31.825Z</lastmod>
   </url>
   <url>
     <loc>https://Yarmoski.github.io/140-Quarto/index.html</loc>
-    <lastmod>2023-03-08T18:05:10.235Z</lastmod>
+    <lastmod>2023-03-08T18:21:32.312Z</lastmod>
   </url>
 </urlset>
