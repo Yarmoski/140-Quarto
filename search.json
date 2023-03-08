@@ -2,37 +2,16 @@
   {
     "objectID": "posts/Ted-140-Project-Notebook.html",
     "href": "posts/Ted-140-Project-Notebook.html",
-    "title": "tedblog",
+    "title": "Ted’s Final Project",
     "section": "",
-    "text": "---\ntitle: \"Ted's Final Project\"\ndescription: \"An analysis of video Game Metrics from 2004 to 2010\"\nauthor: \"Ted Yarmoski\"\ndate: \"03/08/2023\"\ndate-modified: \"03/08/2023\"\n---"
-  },
-  {
-    "objectID": "posts/Ted-140-Project-Notebook.html#description",
-    "href": "posts/Ted-140-Project-Notebook.html#description",
-    "title": "tedblog",
-    "section": "Description",
-    "text": "Description\nThis data contains the sales and playtime of 1000+ video games released between 2004 and 2010.\nhttps://corgis-edu.github.io/corgis/python/video_games/"
-  },
-  {
-    "objectID": "posts/Ted-140-Project-Notebook.html#motivation",
-    "href": "posts/Ted-140-Project-Notebook.html#motivation",
-    "title": "tedblog",
-    "section": "Motivation",
-    "text": "Motivation\nI have always been interested in video games and I would like to investigate whether there is a correlation between various playtime metrics (avg, min lengths to beat, etc.) and sales numbers for those video games."
+    "text": "This data contains the sales and playtime of 1000+ video games released between 2004 and 2010.\nhttps://corgis-edu.github.io/corgis/python/video_games/\n\n\n\nI have always been interested in video games and I would like to investigate whether there is a correlation between various playtime metrics (avg, min lengths to beat, etc.) and sales numbers for those video games."
   },
   {
     "objectID": "posts/Assignment01.html",
     "href": "posts/Assignment01.html",
-    "title": "tedblog",
+    "title": "First File",
     "section": "",
-    "text": "---\ntitle: \"First File\"\ndescription: \"Testing Quarto\"\nauthor: \"Ted Yarmoski\"\ndate: \"03/06/2023\"\ndate-modified: \"03/06/2023\"\n---\n\nSyntaxError: invalid syntax (3257369009.py, line 1)"
-  },
-  {
-    "objectID": "posts/Assignment01.html#notes",
-    "href": "posts/Assignment01.html#notes",
-    "title": "tedblog",
-    "section": "Notes",
-    "text": "Notes\n\nThere are many guides out there on how to use markdown syntax. The following is one example you may find useful:\n\nMarkdown Cheatsheet\n\nIn this assignment notebook, you will find that you are unable to alter the content of the cells that I have written -> this is on purpose. However, you will be able to edit and run all response cells.\nAfter writing your responses in markdown, execute the cells so that your markdown text gets rendered.\n\n\nInitial step:\nOpen the cell below in edit mode (by double-clicking on it), look at how it is written, and then run it. Make sure you understand how the text is marked up to get the header style, italics, bold, and a bulleted list.\n\n(double-click here to edit)"
+    "text": "The aim of this assignment is to give you practice working with this Jupyter environment and writing Markdown.\nThis exercise is also intended to start you thinking about what you might like to work on for a project. (I will not hold you to any project ideas written here; you are welcome to change your mind later.)\n\n\n\nThere are many guides out there on how to use markdown syntax. The following is one example you may find useful:\n\nMarkdown Cheatsheet\n\nIn this assignment notebook, you will find that you are unable to alter the content of the cells that I have written -> this is on purpose. However, you will be able to edit and run all response cells.\nAfter writing your responses in markdown, execute the cells so that your markdown text gets rendered.\n\n\nInitial step:\nOpen the cell below in edit mode (by double-clicking on it), look at how it is written, and then run it. Make sure you understand how the text is marked up to get the header style, italics, bold, and a bulleted list.\n\n(double-click here to edit)"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -60,6 +39,6 @@
     "href": "index.html",
     "title": "tedblog",
     "section": "",
-    "text": "Intro\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAssignment 1\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Ted’s Final Project\n\n\n\n\n\nAn analysis of video Game Metrics from 2004 to 2010\n\n\n\n\n\n\nMar 8, 2023\n\n\nTed Yarmoski\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nFirst File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 6, 2023\n\n\nTed Yarmoski\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
